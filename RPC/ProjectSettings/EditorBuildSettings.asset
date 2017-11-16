@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene/chat.unity
     guid: 7ee68ddd7949416438b6852beded488b
+  - enabled: 1
+    path: Assets/Scene/RPC.unity
+    guid: c11e50face60cd243a9473fe585c2191
