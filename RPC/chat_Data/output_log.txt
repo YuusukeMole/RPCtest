@@ -1,0 +1,130 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     1107 MB
+    Driver:   21.20.16.4542
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\mun.dll (this message is harmless)
+Loading C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\mun.dll into Unity Child Domain
+- Completed reload, in  2.086 seconds
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\syuu1\OneDrive\ドキュメント\RPCtest\RPC\chat_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.568990 ms
+Change NetworkingPeer.State => Before (Uninitialized)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (PeerCreated)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mrs_initialize done.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 26f8 -> priority: 1 
+  Thread -> id: 2cec -> priority: 1 
+  Thread -> id: 1710 -> priority: 1 
+  Thread -> id: 44e8 -> priority: 1 
+Change NetworkingPeer.State => Before (PeerCreated)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (Authenticated)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => Before (Authenticated)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (ConnectingToTestServer)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => Before (ConnectingToTestServer)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (ConnectedToTestServer)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => Before (ConnectedToTestServer)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (Joined)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkingPeer.LeaveRoom()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => Before (Joined)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (LeavingRoom)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => Before (LeavingRoom)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (LeavedRoom)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => Before (LeavedRoom)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (Joined)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => Before (Joined)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (Disconnecting)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => Before (Disconnecting)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (Authenticated)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => Before (Authenticated)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Change NetworkingPeer.State => After  (PeerCreated)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

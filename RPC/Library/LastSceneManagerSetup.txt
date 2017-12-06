@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/RPC.unity
+- path: Assets/Scene/RPC.unity
   isLoaded: 1
   isActive: 1
